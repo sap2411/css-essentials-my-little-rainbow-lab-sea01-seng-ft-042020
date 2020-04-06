@@ -4,7 +4,7 @@ div {
   display: inline-block; /* a way of positioning elements */
   min-width: 40em; /* the two min styles make the shape */
   min-height: 35em; /* of the divs oblong*/
-  border-radius: 99%; /* this makes the normally square div round */
+  border-radius: 50%; /* this makes the normally square div round */
  
 }
 
