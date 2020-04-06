@@ -3,7 +3,7 @@ div {
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 40em; /* the two min styles make the shape */
-  min-height: 25em; /* of the divs oblong*/
+  min-height: 35em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
  
 }
